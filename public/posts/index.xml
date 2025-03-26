@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/test-jpg/</link>
+      <link>//localhost:1313/posts/test-jpg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/test-jpg/</guid>
+      <guid>//localhost:1313/posts/test-jpg/</guid>
       <description>&lt;p&gt;This is a test for the jpg regex if it works then it is very good.&#xA;![[../images/JPG-JPEG.jpg]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proper Test</title>
-      <link>/posts/this-is-the-first-proper-test/</link>
+      <link>//localhost:1313/posts/this-is-the-first-proper-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/this-is-the-first-proper-test/</guid>
+      <guid>//localhost:1313/posts/this-is-the-first-proper-test/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Real Test&lt;/strong&gt;&#xA;With fancy formatting&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;and bullet points&lt;/li&gt;&#xA;&lt;li&gt;hopefully it works&lt;/li&gt;&#xA;&lt;li&gt;also look at this image&lt;/li&gt;&#xA;&lt;li&gt;shift&lt;/li&gt;&#xA;&lt;li&gt;![[../images/Screenshot_20250325_212221_Brave.png]]&lt;/li&gt;&#xA;&lt;li&gt;It is awesome right?&lt;/li&gt;&#xA;&lt;li&gt;#correct&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Status of AI</title>
-      <link>/posts/the-status-of-ai/</link>
+      <link>//localhost:1313/posts/the-status-of-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/the-status-of-ai/</guid>
+      <guid>//localhost:1313/posts/the-status-of-ai/</guid>
       <description>&lt;p&gt;AI is a very interesting field. I think it is cool, but a lot of people think it will take your job away. Skill issue I think. It won&amp;rsquo;t happen.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is a test&lt;/li&gt;&#xA;&lt;li&gt;I do believe is very good but I don&amp;rsquo;t care&#xA;![[../images/Pasted image 20250125165348.png]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
