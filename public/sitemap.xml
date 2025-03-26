@@ -2,15 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/test-jpg/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/posts/liam-lawson-and-red-bull/</loc>
+  </url><url>
     <loc>/posts/</loc>
-  </url><url>
-    <loc>/posts/this-is-the-first-proper-test/</loc>
-  </url><url>
-    <loc>/posts/the-status-of-ai/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>
