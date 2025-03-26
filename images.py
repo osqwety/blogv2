@@ -64,23 +64,21 @@ def convert_image_links(filepath):
     return content_modified
 
 # Process all markdown files
-def main():
-    processed_files = 0
-    modified_files = 0
+processed_files = 0
+modified_files = 0
     
     # Walk through all markdown files in the posts directory
-    for root, _, files in os.walk(posts_dir):
-        for filename in files:
-            if filename.endswith(".md"):
-                filepath = os.path.join(root, filename)
+for root, _, files in os.walk(posts_dir):
+    for filename in files:
+        if filename.endswith(".md"):
+            filepath = os.path.join(root, filename)
                 
                 # Convert image links
-                if convert_image_links(filepath):
-                    modified_files += 1
-                processed_files += 1
+            if convert_image_links(filepath):
+                modified_files += 1
+            processed_files += 1
     
-    print(f"\nProcessing complete:")
-    print(f"Total files processed: {processed_files}")
-    print(f"Files modified: {modified_files}")
+print(f"\nProcessing complete:")
+print(f"Total files processed: {processed_files}")
+print(f"Files modified: {modified_files}")
 
-main()
