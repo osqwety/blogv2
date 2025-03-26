@@ -12,7 +12,7 @@
       <link>//localhost:1313/posts/test-jpg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/test-jpg/</guid>
-      <description>&lt;p&gt;This is a test for the jpg regex if it works then it is very good.&#xA;![[../images/JPG-JPEG.jpg]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a test for the jpg regex if it works then it is very good.&#xA;PS. it is trash&#xA;![[../images/JPG-JPEG.jpg]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proper Test</title>
