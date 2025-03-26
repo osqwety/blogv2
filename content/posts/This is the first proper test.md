@@ -6,6 +6,7 @@ With fancy formatting
 - and bullet points
 - hopefully it works
 - also look at this image
- - ![[../images/Screenshot_20250325_211841_Brave 1.jpg]]
+ - shift
+ - ![Image Description](/images/images/Screenshot_20250325_211841_Brave.jpg
 - It is awesome right?
 - #correct
